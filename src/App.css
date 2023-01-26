@@ -41,9 +41,9 @@
   color: white;
 }
 .togglebtn {
-  height: 100%;
-  width: 100%;
+ 
   display: flex;
-  justify-content: right;
-  align-items: right;
+  justify-content:right;
+  margin-inline-end: 50px;
+  align-items: center;
 }
