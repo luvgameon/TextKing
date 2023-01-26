@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextKing/static/css/main.ebf6f228.css",
+    "main.js": "/TextKing/static/js/main.8564eb96.js",
+    "static/js/787.51141a93.chunk.js": "/TextKing/static/js/787.51141a93.chunk.js",
+    "index.html": "/TextKing/index.html",
+    "main.ebf6f228.css.map": "/TextKing/static/css/main.ebf6f228.css.map",
+    "main.8564eb96.js.map": "/TextKing/static/js/main.8564eb96.js.map",
+    "787.51141a93.chunk.js.map": "/TextKing/static/js/787.51141a93.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebf6f228.css",
+    "static/js/main.8564eb96.js"
+  ]
+}
